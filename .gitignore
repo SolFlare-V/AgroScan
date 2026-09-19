@@ -1,0 +1,56 @@
+# Environments
+.venv/
+env/
+venv/
+ENV/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large files & Logs
+data/
+*.zip
+*.log
+*.csv
+new-plant-diseases-dataset.zip
+training.log
+training_transfer.log
+backend_error.log
+keras_classes.log
+
+# OS
+.DS_Store
+Thumbs.db
