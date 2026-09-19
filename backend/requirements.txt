@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+tensorflow>=2.15.0
+pillow
+numpy
+python-multipart
+python-dotenv
+matplotlib
+groq
+httpx
+requests
